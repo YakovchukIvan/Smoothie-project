@@ -2,22 +2,86 @@
     border: 1px solid red;
 } */
 
+/* header */
+
 .header {
     height: 768px;
     background-image: url(../assets/images/header-bg-img1366x768.jpg);
 }
 
+.header__top {
+    display: flex;
+    justify-content: space-between;
+}
+
+.personal__list {
+    display: flex;
+    flex-direction: row;
+}
+
+.social__list {
+    display: flex;
+    flex-direction: row
+}
+
+/* smoothies */
+
 .smoothies {
     background: white;
 }
 
+.smoothies__blocks {
+    display: flex;
+}
+
+/* about */
+
 .about {
     background: #178671;
+    display: flex;
 }
+
+/* products */
 
 .products {
     display: flex;
 }
+
+.card-1 {
+    background: #672c1a;
+}
+
+.card-2 {
+    background: #178671;
+}
+
+.card-3 {
+    background: #faab3b;
+}
+
+.card-4 {
+    background: #c7471a;
+}
+
+/* story */
+
+.story {
+    display: flex;
+}
+
+/* testimonials */
+
+.testimonials {
+    background: #6b3117 ;
+}
+
+/* blog */
+
+.blog__content {
+    display: flex;
+}
+
+/* instagram */
 
 .instagram__gallery {
     display: flex;
