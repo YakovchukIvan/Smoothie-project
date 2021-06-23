@@ -12,5 +12,10 @@
 }
 
 .footer {
-    background: orange;
+    background: #faab3b;
+}
+
+.instagram__gallery {
+    display: flex;
+    
 }
