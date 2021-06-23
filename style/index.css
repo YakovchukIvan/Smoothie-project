@@ -11,11 +11,20 @@
     background: #178671;
 }
 
-.footer {
-    background: #faab3b;
+.products {
+    display: flex;
 }
 
 .instagram__gallery {
     display: flex;
     
+}
+
+.footer {
+    background: #faab3b;
+}
+
+.footer__top {
+    display: flex;
+    flex-direction: row;
 }
