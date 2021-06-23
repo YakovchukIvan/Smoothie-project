@@ -1,7 +1,6 @@
 .header {
-    width: 1920px;
-    height: 1080px;
-    background-image: url(../assets/images/header-bg-img.png);
+    height: 768px;
+    background-image: url(../assets/images/header-bg-img1366x768.jpg);
 }
 
 .smoothies {
@@ -9,7 +8,7 @@
 }
 
 .about {
-    background: rgb(10, 87, 45);
+    background: #178671;
 }
 
 .footer {
