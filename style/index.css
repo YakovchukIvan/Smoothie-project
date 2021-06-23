@@ -1,3 +1,7 @@
+* {
+    border: 1px solid red;
+}
+
 .header {
     height: 768px;
     background-image: url(../assets/images/header-bg-img1366x768.jpg);
