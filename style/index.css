@@ -1,6 +1,6 @@
-* {
+/* * {
     border: 1px solid red;
-}
+} */
 
 .header {
     height: 768px;
@@ -21,8 +21,9 @@
 
 .instagram__gallery {
     display: flex;
-    
 }
+
+/* footer */
 
 .footer {
     background: #faab3b;
@@ -31,4 +32,13 @@
 .footer__top {
     display: flex;
     flex-direction: row;
+}
+
+.footer__list-socials {
+    display: flex;
+    flex-direction: row;
+}
+
+.footer__bottom {
+    background: #6c2b1a;
 }
