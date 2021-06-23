@@ -1,5 +1,7 @@
 .header {
-    background: orange;
+    width: 1920px;
+    height: 1080px;
+    background-image: url(../assets/images/header-bg-img.png);
 }
 
 .smoothies {
